@@ -47,3 +47,14 @@ body {
     flex-direction: column;
     gap: 10px;
 }
+
+.auth form {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    gap: 10px;
+}
+
+.auth input {
+    height: 5%;
+}
