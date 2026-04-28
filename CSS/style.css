@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(227, 227, 227);
+}
+
+.main button{
+    padding: 10px 20px;
+    color: white;
+    background: rgb(196, 46, 46);
+    border-radius: 20px;
+    border: none;
+    transition: 0.2s;
+}
+
+.main button:hover {
+    background: rgb(216, 61, 61);
+    transition: 0.2s;
+}
